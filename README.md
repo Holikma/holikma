@@ -1,33 +1,35 @@
 <div align="center">
 
-### 👋 Hello and welcome to my GitHub page 🎉
+### 👋 Hello and Welcome to My GitHub Page 🎉
 
 </div>
 
 Hi there! I'm **Marek Holik**, a **Data Analyst intern** and an **Applied Mathematics student** at Slovak Technical University.  
 
-Balancing academic pursuits with professional responsibilities can be demanding—especially when it comes to reviewing and refining the projects I've devoted countless hours to. 
+With work and studies being my top priorities, my personal projects often take a backseat. However, I’ve invested significant effort into creating, reviewing, and refining them as time allows. 
 
-Since I cant share projects I´m working on at my Internship position, nor share algorithms used for personal purposes, these are projects I´m trying to represent myself with and prove to potential partners, that I´m Junior developer with experience in designing projects, as these projects are mostly impelementation of back-end processes paired with front-end UI, focused on functional and readable code, with potential to upscale.
+While I’m unable to share the projects I’ve worked on during my internship or proprietary algorithms developed for personal use, this repository showcases the projects I’ve designed to represent my skills and expertise. 
+
+These projects demonstrate my ability to act as a Junior Developer, with hands-on experience in designing and implementing solutions. Many feature a combination of back-end processes and front-end UI, focusing on clean, functional, and scalable code.  
 
 ---
 
 ### 📂 Projects  
 
-- ✅ I've reviewed about **50% of the projects** I've worked on during my studies in Bratislava and Prague.  
-- ✨ While they may not yet be polished to perfection, I'm committed to continuous improvement.  
+- ✅ I've reviewed approximately **50% of the projects** I worked on during my studies in Bratislava and Prague.  
+- ✨ While not all are polished to perfection, I remain committed to continuously improving them.  
 
 ---
 
 ### 🚀 Explore My Work  
 
-Although some of my projects are not fully documented yet, feel free to **clone and explore** them on your own — I’d love to hear your feedback!  
+Some projects may still lack full documentation, but feel free to **clone and explore** them on your own. Your feedback is always welcome and appreciated!  
 
 ---
 
-## 🔍 Projects under review:
+## 🔍 Projects Under Review:  
 
-- [x] ~~🖼️ Image Restoration Algorithm~~      
+- [x] ~~🖼️ Image Restoration Algorithm~~  
 - [x] ~~📊 Covid Data Analysis~~  
 - [ ] 🏫 Academic Information System  
 - [ ] 🛒 Eshop  
@@ -38,7 +40,7 @@ Although some of my projects are not fully documented yet, feel free to **clone 
 
 ---
 
-## 📬 How to reach me  
+## 📬 How to Reach Me  
 
 - ✉️ **Email:** [marekholik01@gmail.com](mailto:marekholik01@gmail.com)  
 - 💼 **LinkedIn:** [Marek Holik](https://www.linkedin.com/in/marek-holik)  
