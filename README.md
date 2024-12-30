@@ -6,7 +6,9 @@
 
 Hi there! I'm **Marek Holik**, a **Data Analyst intern** and an **Applied Mathematics student** at Slovak Technical University.  
 
-Balancing academic pursuits with professional responsibilities can be demanding—especially when it comes to reviewing and refining the projects I've devoted countless hours to.  
+Balancing academic pursuits with professional responsibilities can be demanding—especially when it comes to reviewing and refining the projects I've devoted countless hours to. 
+
+Since I cant share projects I´m working on at my Internship position, nor share algorithms used for personal purposes, these are projects I´m trying to represent myself with and prove to potential partners, that I´m Junior developer with experience in designing projects, as these projects are mostly impelementation of back-end processes paired with front-end UI, focused on functional and readable code, with potential to upscale.
 
 ---
 
@@ -19,7 +21,7 @@ Balancing academic pursuits with professional responsibilities can be demanding�
 
 ### 🚀 Explore My Work  
 
-Although some of my projects are not fully documented yet, feel free to **clone and explore** them on your own—I’d love to hear your feedback!  
+Although some of my projects are not fully documented yet, feel free to **clone and explore** them on your own — I’d love to hear your feedback!  
 
 ---
 
